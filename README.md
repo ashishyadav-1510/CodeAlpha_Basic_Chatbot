@@ -31,10 +31,10 @@ Here are some example messages the chatbot understands:
 
 ## Screenshot
 ### Code:
-![image]()
+![image](https://github.com/ashishyadav-1510/CodeAlpha_Basic_Chatbot/blob/main/Screenshot/Screenshot%202025-07-19%20211937.png?raw=true)
 
 ### Output:
-![image]()
+![image](https://github.com/ashishyadav-1510/CodeAlpha_Basic_Chatbot/blob/main/Screenshot/Screenshot%202025-07-19%20212036.png?raw=true)
 
 ## Video
 [Video](https://youtu.be/ZYDOOXzP2pE)
